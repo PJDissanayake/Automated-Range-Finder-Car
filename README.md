@@ -1,4 +1,4 @@
-# Automation-Range-Finder-Car
+# Automated-Range-Finder-Car
 
 Welcome to my GitHub repository showcasing an innovative project aimed at improving the accuracy of measurements in building and structural design. In these fields, the measurement process can introduce errors when performed by humans, leading to potential costs for various stakeholders.
 
